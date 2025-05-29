@@ -43,3 +43,4 @@ Destroy = false, -- Destroy Images
 ["Low Quality Parts"] = true -- Lower quality parts
 
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fever3357-source/Less-ping/refs/heads/main/Less%20ping"))()
